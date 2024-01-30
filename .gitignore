@@ -1,5 +1,3 @@
-# Ignorar todos los archivos .log
 *.log
 
-# Ignorar archivos de la carpeta modules
 modules/
